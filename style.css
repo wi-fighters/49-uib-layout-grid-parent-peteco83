@@ -5,6 +5,6 @@ img {
 .container {
     display: grid;
     grid-template-columns: minmax(100px,350px) 1fr minmax(100px,350px);
-    grid-gap: 1rem;
+    gap: 1rem;
 }
 
